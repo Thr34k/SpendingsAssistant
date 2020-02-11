@@ -1,0 +1,17 @@
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\Spendings assistant.dll
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\Spendings assistant.pdb
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\obj\Debug\Spendings assistant.csprojAssemblyReference.cache
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\obj\Debug\Spendings_assistant.UserControl1.resources
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\obj\Debug\Spendings assistant.csproj.GenerateResource.cache
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\obj\Debug\Spendings assistant.dll
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\obj\Debug\Spendings assistant.pdb
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.dll
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.pdb
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.xml
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Oddboi\source\repos\Spendings assistant\Spendings assistant\obj\Debug\Spendings assistant.csproj.CopyComplete

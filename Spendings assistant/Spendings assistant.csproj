@@ -57,6 +57,9 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ANN\ANN.cs" />
+    <Compile Include="ANN\Layer.cs" />
+    <Compile Include="ANN\Neuron.cs" />
     <Compile Include="Concrete Classes\Account.cs" />
     <Compile Include="Concrete Classes\History.cs" />
     <Compile Include="Abstract Classes\IObserver.cs" />
